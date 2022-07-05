@@ -277,3 +277,6 @@ var myChart = new Chart(chart, {
     }
   }
 })
+
+require("trix")
+require("@rails/actiontext")
